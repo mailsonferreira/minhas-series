@@ -21,7 +21,7 @@ const NovoGenero = () => {
     }
     return (
         <div className='container'>
-                <h1>Novo Genêros</h1>
+                <h1>Novo Genêro</h1>
                 <form>
                 <div className="form-group">
                     <label htmlfor="name">Nome </label>
